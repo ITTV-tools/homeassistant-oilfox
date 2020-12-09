@@ -1,0 +1,11 @@
+{
+  "domain": "oilfox",
+  "name": "Oilfox Sensor",
+  "documentation": "https://www.home-assistant.io/integrations/kostalplenticore/",
+  "dependencies": [],
+  "requirements": [],
+  "codeowners": [
+    "@ITTV-Tools"
+  ]
+
+}
