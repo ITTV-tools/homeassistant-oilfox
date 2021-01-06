@@ -1,9 +1,11 @@
 {
   "domain": "oilfox",
   "name": "Oilfox Sensor",
-  "documentation": "https://www.home-assistant.io/integrations/kostalplenticore/",
+  "documentation": "https://www.home-assistant.io/integrations/oilfox/",
   "dependencies": [],
-  "requirements": [],
+  "requirements": [
+    "oilfoxpy==0.3"
+  ],
   "codeowners": [
     "@ITTV-Tools"
   ]
